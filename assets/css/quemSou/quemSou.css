@@ -1,0 +1,14 @@
+.quem-sou {
+  display: flex;
+  flex-direction: column;
+  columns: 100%;
+  padding: 5rem;
+  text-align: center;
+}
+
+  @media screen and (max-width: 768px) {
+    .quem-sou {
+      padding: 1rem;
+    }
+  
+  }

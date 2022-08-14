@@ -1,0 +1,32 @@
+.rodape {
+    background: #000000;
+    color: #fdfdfd;
+    text-align: right;
+    padding: 1.5625rem 5rem;
+    text-transform: lowercase;
+  }
+
+  .rodape__icone {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.rodape__icone-social {
+    width: 40px;
+    margin-left: 30px;
+}
+
+.email {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 768px) {
+  .emailicone{
+    display: none;
+  }
+
+}
+
+  

@@ -1,0 +1,16 @@
+.card__botao {
+    background: #1344af;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    transition: all .1s ease-in-out;
+    width: 100%;
+ 
+  
+}
+
+.card__botao:hover {
+    background: #620404;
+    cursor: pointer;
+}

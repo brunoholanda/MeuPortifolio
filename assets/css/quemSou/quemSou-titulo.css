@@ -1,0 +1,14 @@
+.quem-sou__titulo {
+    color: #1344af;
+    font-family: Pacifico, cursive;
+    font-size: 3.1875rem;
+    margin-bottom: 1rem;
+  }
+
+  @media screen and (max-width: 768px) {
+    .quem-sou__titulo{
+      font-size: 1.5rem;
+    }
+  
+  }
+  

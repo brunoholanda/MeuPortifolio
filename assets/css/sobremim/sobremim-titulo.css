@@ -1,0 +1,19 @@
+.sobremim__titulo {
+    text-align: center;
+    color: #1344af;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+@media screen and (min-width: 0px) {
+    .sobremim__titulo {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .sobremim__titulo {
+        font-size: 3.1875rem;
+    }
+}

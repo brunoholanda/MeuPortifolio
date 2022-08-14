@@ -1,0 +1,14 @@
+
+.pessoa__imagem {
+    border-radius: 100%;
+  
+}
+
+.eumesmo {
+    text-align: center;
+    margin: auto;
+    border-radius: 100%;
+    height: 250px;
+    width: 250px;
+}
+

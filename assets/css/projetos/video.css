@@ -1,0 +1,11 @@
+.video {
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   margin-bottom: 15px;
+}
+
+.video__trailer {
+    display: block;
+    margin: 0px auto;
+}

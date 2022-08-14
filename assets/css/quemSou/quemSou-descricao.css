@@ -1,0 +1,13 @@
+.quem-sou__descricao {
+    color: #595959;
+    font-size: 1.75rem;
+    font-weight: 100;
+    margin-bottom: 1rem;
+  }
+
+  @media screen and (max-width: 768px) {
+    .quem-sou__descricao {
+      font-size: 1.5rem;
+    }
+  
+  }

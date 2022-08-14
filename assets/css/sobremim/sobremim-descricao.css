@@ -1,0 +1,19 @@
+
+.sobremim__descricao {
+    text-align: center;
+    color: #595959;
+    font-weight: 100;
+    padding: 50px;
+}
+
+@media screen and (min-width: 0px) {
+    .sobremim__descricao {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .sobremim__descricao {
+        font-size: 1.75rem;
+    }
+}

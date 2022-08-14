@@ -1,0 +1,11 @@
+.cabecalho__social {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 100px 20px 100px;
+    
+}
+
+.cabecalho__social-icone {
+    width: 40px;
+}
+

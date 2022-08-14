@@ -1,0 +1,27 @@
+.cards {
+    justify-content: center;
+    background: #e5e5e5;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+
+}
+
+@media screen and (min-width: 0) {
+    .cards {
+        padding: 5rem 0 0 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .cards {
+        padding: 5rem 0 0 2.5rem;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .cards {
+        padding: 5rem 0 0 5rem;
+    }
+}
