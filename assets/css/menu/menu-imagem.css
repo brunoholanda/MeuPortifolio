@@ -9,3 +9,9 @@
     width: 40px;
 }
 
+@media screen and (max-width: 768px) {
+    .cabecalho__social {
+        margin: 0.5rem;
+    }
+}
+
