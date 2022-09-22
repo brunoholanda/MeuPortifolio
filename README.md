@@ -10,7 +10,7 @@
 # Funcionalidades
 :rocket: Site responsivo desenvolvido com a medologia Mobile First, conta com menus e cartões de acesso, criando uma navegação fluida para todos os publicos, procurei ter trabalhar a acessibilidade do site em todas as verões tendo cuidado principalmente na distancia entre os botões e as cores utilizadas.
 
-# Acesso ao Projeto;
+# Acesso ao Projeto
 https://meu-portifolio-virid.vercel.app/
 
 # Tecnologias utilizadas
